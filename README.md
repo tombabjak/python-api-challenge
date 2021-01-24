@@ -1,10 +1,9 @@
 # python-api-challenge
 
 Thomas Babjak   
-
 23Jan2021   
-
 Python API Homework - What's the Weather Like?
+
 
 Part 1: See directory 'WeatherPy'
 
